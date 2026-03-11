@@ -86,9 +86,9 @@ show_banner() {
     cat << 'BANNER'
     ╔══════════════════════════════════════╗
     ║                                      ║
-    ║   🚀  MOBILE HACKLAB v2.1  🚀        ║
+    ║ Linux Desktop v2.3        ║
     ║                                      ║
-    ║       Tech Jarves - YouTube          ║
+    ║ Tech Jarves - YouTube          ║
     ║                                      ║
     ╚══════════════════════════════════════╝
 BANNER
