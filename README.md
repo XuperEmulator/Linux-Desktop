@@ -13,8 +13,7 @@ curl -sH https://raw.githubusercontent.com/zalithcomunity/Linux-Desktop/refs/hea
 **Or using wget
 ``` bash
 wget -O - https://raw.githubusercontent.com/zalithcomunity/Linux-Desktop/refs/heads/main/install.sh | bash
-
---- bash
+---
 ## ✨ Features
 | Feature | Description |
 |---------|-------------|
